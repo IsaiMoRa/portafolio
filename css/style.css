@@ -62,7 +62,7 @@ body {
 
 .parallax__content {
   background: url(https://i.gifer.com/J938.gif);
-  padding: var(--section-padding) var(--container-padding);
+  padding: 100px;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
@@ -246,3 +246,7 @@ body {
   margin-left: 10px;
 }
 /*Fini del Parallax*/
+
+.avatar{
+    padding: 50px;
+}
