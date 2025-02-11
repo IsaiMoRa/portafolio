@@ -94,5 +94,5 @@ document.addEventListener("DOMContentLoaded", () => {
       wordArray.push(letters);
     }
     changeWord();
-    setInterval(changeWord, 6000);
+    setInterval(changeWord, 5000);
     /*End | Text Rotating*/
